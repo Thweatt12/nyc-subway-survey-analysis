@@ -1,0 +1,56 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "7877802e",
+   "metadata": {},
+   "source": [
+    "Longer rides are a consistent driver of dissatisfaction and affordability concerns.\n",
+    "\n",
+    "Policies aimed at reducing travel time (better transfers, express lines, etc.) would likely have direct impact on user satisfaction."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8d74d495",
+   "metadata": {},
+   "source": [
+    "Riders who feel the subway is “Not affordable” also tend to report longer ride times.\n",
+    "\n",
+    "This suggests that long-distance commuters bear a disproportionate cost burden, possibly those living far from work hubs."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3338475d",
+   "metadata": {},
+   "source": [
+    "Riders commuting in the early morning (7–9 AM) and evening (5–7 PM) tend to have longer average ride times, confirming standard rush hour congestion.\n",
+    "\n",
+    "Midday and late-night riders average shorter trips, consistent with non-commute or off-peak travel.\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "760d4c25",
+   "metadata": {},
+   "source": [
+    "Average subway ride time varies meaningfully by day of the week:\n",
+    "\n",
+    "Longest rides happen on Mondays and Fridays, likely reflecting full-length commutes at the start and end of the week.\n",
+    "\n",
+    "Shortest rides occur midweek, particularly Wednesdays, suggesting more localized or routine trips.\n",
+    "\n",
+    "Weekend rides (Saturday/Sunday) are slightly longer and more variable, which may indicate leisure or inter-borough travel."
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
